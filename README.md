@@ -2,7 +2,7 @@
 自己家的 React Native 组件
 
 * Stack Navigation
-* Button Navigation
+* Bottom Navigation
 * Tab View
 * Icon Button
 * Toast
